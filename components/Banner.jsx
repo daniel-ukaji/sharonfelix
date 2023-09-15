@@ -14,7 +14,7 @@ function Banner() {
             alt=''
         />
         <div className='absolute top-2/4 w-full text-center'>
-            <p className='text-sm sm:text-5xl font-extrabold text-white'>Not sure where to go? Perfect.</p>
+            <p className='text-sm xl:text-4xl flex items-center justify-center font-extrabold text-white'>Your Trusted Partner in<br /> Real Estate, Recruitment, Cleaning, and Laundry Solutions.</p>
         
             <Link href="/jobs">
               <Button className='mt-5 w-48 p-6'>Go to Jobs</Button>
